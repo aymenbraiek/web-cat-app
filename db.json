@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "iphone",
+      "price": 2500,
+      "quantity": 300,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "sumsing",
+      "price": 5000,
+      "quantity": 900,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "clio",
+      "price": 2500,
+      "quantity": 300,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "clio201",
+      "price": 2500,
+      "quantity": 300,
+      "selected": false,
+      "available": true
+    }
+  ]
+}
