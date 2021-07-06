@@ -39,6 +39,14 @@
       "quantity": 300,
       "selected": false,
       "available": true
+    },
+    {
+      "id": 10,
+      "name": "clio201",
+      "price": 2500,
+      "quantity": 300,
+      "selected": false,
+      "available": true
     }
   ]
 }

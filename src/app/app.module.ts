@@ -10,6 +10,7 @@ import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
+    //ici on declare toutes les Component de notre application 
     AppComponent,
     NavBarComponent,
     ProductsComponent,
@@ -22,6 +23,7 @@ import { HttpClientModule } from '@angular/common/http';
     HttpClientModule
     
   ],
+  //Declarer le service qui sera visualisé juste pour l 
   providers: [],
   bootstrap: [AppComponent]
 })
